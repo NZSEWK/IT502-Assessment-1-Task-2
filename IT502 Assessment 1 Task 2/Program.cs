@@ -2,7 +2,7 @@
 
 namespace FactorFinder
 {
-    class Program
+    class Task2
     {
         static void Main(string[] args)
         {
@@ -36,3 +36,4 @@ namespace FactorFinder
         }
     }
 }
+
